@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeeApi", "HomeeApi\HomeeApi.csproj", "{368779CD-7B94-40F7-ADF2-CE373082D928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeeApi.Tests", "HomeeApi.Tests\HomeeApi.Tests.csproj", "{3F93FC90-EF80-48AF-8367-A7BC2AFEE64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368779CD-7B94-40F7-ADF2-CE373082D928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368779CD-7B94-40F7-ADF2-CE373082D928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368779CD-7B94-40F7-ADF2-CE373082D928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368779CD-7B94-40F7-ADF2-CE373082D928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F93FC90-EF80-48AF-8367-A7BC2AFEE64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F93FC90-EF80-48AF-8367-A7BC2AFEE64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F93FC90-EF80-48AF-8367-A7BC2AFEE64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F93FC90-EF80-48AF-8367-A7BC2AFEE64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
